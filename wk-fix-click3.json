@@ -1,0 +1,262 @@
+{
+  "events": [
+    {
+      "type": "pointerdown",
+      "phase": "capture",
+      "time": 1794872207357,
+      "button": 0,
+      "ctrlKey": true,
+      "metaKey": false,
+      "defaultPrevented": false,
+      "href": "/chat/main/proof-3"
+    },
+    {
+      "type": "mousedown",
+      "phase": "capture",
+      "time": 1794872207358,
+      "button": 0,
+      "ctrlKey": true,
+      "metaKey": false,
+      "defaultPrevented": false,
+      "href": "/chat/main/proof-3"
+    },
+    {
+      "type": "contextmenu",
+      "phase": "capture",
+      "time": 1794872207364,
+      "button": 0,
+      "ctrlKey": true,
+      "metaKey": false,
+      "defaultPrevented": false,
+      "href": "/chat/main/proof-3"
+    },
+    {
+      "type": "pointerdown",
+      "phase": "after",
+      "time": 1794872207381,
+      "defaultPrevented": false,
+      "menu": true
+    },
+    {
+      "type": "mousedown",
+      "phase": "after",
+      "time": 1794872207381,
+      "defaultPrevented": false,
+      "menu": true
+    },
+    {
+      "type": "contextmenu",
+      "phase": "after",
+      "time": 1794872207381,
+      "defaultPrevented": true,
+      "menu": true
+    },
+    {
+      "type": "mouseup",
+      "phase": "capture",
+      "time": 1794872207382,
+      "button": 0,
+      "ctrlKey": true,
+      "metaKey": false,
+      "defaultPrevented": false,
+      "href": "/chat/main/proof-3"
+    },
+    {
+      "type": "click",
+      "phase": "capture",
+      "time": 1794872207382,
+      "button": 0,
+      "ctrlKey": true,
+      "metaKey": false,
+      "defaultPrevented": false,
+      "href": "/chat/main/proof-3"
+    },
+    {
+      "type": "mouseup",
+      "phase": "after",
+      "time": 1794872207385,
+      "defaultPrevented": false,
+      "menu": true
+    },
+    {
+      "type": "click",
+      "phase": "after",
+      "time": 1794872207385,
+      "defaultPrevented": true,
+      "menu": true
+    },
+    {
+      "type": "pointerdown",
+      "phase": "capture",
+      "time": 1794872240573,
+      "button": 0,
+      "ctrlKey": true,
+      "metaKey": false,
+      "defaultPrevented": false,
+      "href": "/chat/main/proof-1"
+    },
+    {
+      "type": "mousedown",
+      "phase": "capture",
+      "time": 1794872240573,
+      "button": 0,
+      "ctrlKey": true,
+      "metaKey": false,
+      "defaultPrevented": false,
+      "href": "/chat/main/proof-1"
+    },
+    {
+      "type": "contextmenu",
+      "phase": "capture",
+      "time": 1794872240580,
+      "button": 0,
+      "ctrlKey": true,
+      "metaKey": false,
+      "defaultPrevented": false,
+      "href": "/chat/main/proof-1"
+    },
+    {
+      "type": "pointerdown",
+      "phase": "after",
+      "time": 1794872240619,
+      "defaultPrevented": false,
+      "menu": true
+    },
+    {
+      "type": "mousedown",
+      "phase": "after",
+      "time": 1794872240619,
+      "defaultPrevented": false,
+      "menu": true
+    },
+    {
+      "type": "contextmenu",
+      "phase": "after",
+      "time": 1794872240619,
+      "defaultPrevented": true,
+      "menu": true
+    },
+    {
+      "type": "mouseup",
+      "phase": "capture",
+      "time": 1794872240620,
+      "button": 0,
+      "ctrlKey": true,
+      "metaKey": false,
+      "defaultPrevented": false,
+      "href": "/chat/main/proof-1"
+    },
+    {
+      "type": "click",
+      "phase": "capture",
+      "time": 1794872240620,
+      "button": 0,
+      "ctrlKey": true,
+      "metaKey": false,
+      "defaultPrevented": false,
+      "href": "/chat/main/proof-1"
+    },
+    {
+      "type": "mouseup",
+      "phase": "after",
+      "time": 1794872240620,
+      "defaultPrevented": false,
+      "menu": true
+    },
+    {
+      "type": "click",
+      "phase": "after",
+      "time": 1794872240620,
+      "defaultPrevented": true,
+      "menu": true
+    },
+    {
+      "type": "pointerdown",
+      "phase": "capture",
+      "time": 1794872253413,
+      "button": 0,
+      "ctrlKey": true,
+      "metaKey": false,
+      "defaultPrevented": false,
+      "href": "/chat/main/proof-2"
+    },
+    {
+      "type": "mousedown",
+      "phase": "capture",
+      "time": 1794872253414,
+      "button": 0,
+      "ctrlKey": true,
+      "metaKey": false,
+      "defaultPrevented": false,
+      "href": "/chat/main/proof-2"
+    },
+    {
+      "type": "contextmenu",
+      "phase": "capture",
+      "time": 1794872253422,
+      "button": 0,
+      "ctrlKey": true,
+      "metaKey": false,
+      "defaultPrevented": false,
+      "href": "/chat/main/proof-2"
+    },
+    {
+      "type": "pointerdown",
+      "phase": "after",
+      "time": 1794872253465,
+      "defaultPrevented": false,
+      "menu": true
+    },
+    {
+      "type": "mousedown",
+      "phase": "after",
+      "time": 1794872253465,
+      "defaultPrevented": false,
+      "menu": true
+    },
+    {
+      "type": "contextmenu",
+      "phase": "after",
+      "time": 1794872253465,
+      "defaultPrevented": true,
+      "menu": true
+    },
+    {
+      "type": "mouseup",
+      "phase": "capture",
+      "time": 1794872253466,
+      "button": 0,
+      "ctrlKey": true,
+      "metaKey": false,
+      "defaultPrevented": false,
+      "href": "/chat/main/proof-2"
+    },
+    {
+      "type": "click",
+      "phase": "capture",
+      "time": 1794872253466,
+      "button": 0,
+      "ctrlKey": true,
+      "metaKey": false,
+      "defaultPrevented": false,
+      "href": "/chat/main/proof-2"
+    },
+    {
+      "type": "mouseup",
+      "phase": "after",
+      "time": 1794872253469,
+      "defaultPrevented": false,
+      "menu": true
+    },
+    {
+      "type": "click",
+      "phase": "after",
+      "time": 1794872253469,
+      "defaultPrevented": true,
+      "menu": true
+    }
+  ],
+  "origin": 1794872188449,
+  "path": "/chat/main/proof-1",
+  "menu": true
+}

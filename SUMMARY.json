@@ -1,0 +1,222 @@
+[
+  {
+    "file": "wk-base-click1.json",
+    "origin": 1794872367193,
+    "startOrigin": null,
+    "path": "/chat/main/proof-2",
+    "clicks": [
+      {
+        "type": "click",
+        "phase": "capture",
+        "time": 1794872366963,
+        "button": 0,
+        "ctrlKey": true,
+        "metaKey": false,
+        "defaultPrevented": false,
+        "href": "/chat/main/proof-2"
+      }
+    ],
+    "contextmenuCount": 1,
+    "beforeunloadCount": 0
+  },
+  {
+    "file": "wk-base-click2.json",
+    "origin": 1794872384902,
+    "startOrigin": null,
+    "path": "/chat/main/proof-3",
+    "clicks": [
+      {
+        "type": "click",
+        "phase": "capture",
+        "time": 1794872383711,
+        "button": 0,
+        "ctrlKey": true,
+        "metaKey": false,
+        "defaultPrevented": false,
+        "href": "/chat/main/proof-3"
+      }
+    ],
+    "contextmenuCount": 2,
+    "beforeunloadCount": 0
+  },
+  {
+    "file": "wk-base-click3.json",
+    "origin": 1794872403879,
+    "startOrigin": null,
+    "path": "/chat/main/proof-1",
+    "clicks": [
+      {
+        "type": "click",
+        "phase": "capture",
+        "time": 1794872402645,
+        "button": 0,
+        "ctrlKey": true,
+        "metaKey": false,
+        "defaultPrevented": false,
+        "href": "/chat/main/proof-1"
+      }
+    ],
+    "contextmenuCount": 3,
+    "beforeunloadCount": 0
+  },
+  {
+    "file": "wk-fix-click1.json",
+    "origin": 1794872188448,
+    "startOrigin": null,
+    "path": "/chat/main/proof-1",
+    "clicks": [
+      {
+        "type": "click",
+        "phase": "capture",
+        "time": 1794872207382,
+        "button": 0,
+        "ctrlKey": true,
+        "metaKey": false,
+        "defaultPrevented": false,
+        "href": "/chat/main/proof-3"
+      }
+    ],
+    "contextmenuCount": 1,
+    "beforeunloadCount": 0
+  },
+  {
+    "file": "wk-fix-click2.json",
+    "origin": 1794872188448,
+    "startOrigin": null,
+    "path": "/chat/main/proof-1",
+    "clicks": [
+      {
+        "type": "click",
+        "phase": "capture",
+        "time": 1794872240620,
+        "button": 0,
+        "ctrlKey": true,
+        "metaKey": false,
+        "defaultPrevented": false,
+        "href": "/chat/main/proof-1"
+      }
+    ],
+    "contextmenuCount": 2,
+    "beforeunloadCount": 0
+  },
+  {
+    "file": "wk-fix-click3.json",
+    "origin": 1794872188449,
+    "startOrigin": null,
+    "path": "/chat/main/proof-1",
+    "clicks": [
+      {
+        "type": "click",
+        "phase": "capture",
+        "time": 1794872253466,
+        "button": 0,
+        "ctrlKey": true,
+        "metaKey": false,
+        "defaultPrevented": false,
+        "href": "/chat/main/proof-2"
+      }
+    ],
+    "contextmenuCount": 3,
+    "beforeunloadCount": 0
+  },
+  {
+    "file": "safari-base-click1.json",
+    "origin": 1794872468439,
+    "startOrigin": "1794872407036",
+    "path": "/chat/main/proof-2",
+    "clicks": [
+      {
+        "type": "click",
+        "phase": "capture",
+        "time": 1794872467242,
+        "button": 0,
+        "ctrlKey": true,
+        "metaKey": false,
+        "defaultPrevented": false,
+        "href": "/chat/main/proof-2"
+      }
+    ],
+    "contextmenuCount": 1,
+    "beforeunloadCount": 1
+  },
+  {
+    "file": "safari-base-click2.json",
+    "origin": 1794872513836,
+    "startOrigin": "1794872468439",
+    "path": "/chat/main/proof-3",
+    "clicks": [
+      {
+        "type": "click",
+        "phase": "capture",
+        "time": 1794872513611,
+        "button": 0,
+        "ctrlKey": true,
+        "metaKey": false,
+        "defaultPrevented": false,
+        "href": "/chat/main/proof-3"
+      }
+    ],
+    "contextmenuCount": 1,
+    "beforeunloadCount": 1
+  },
+  {
+    "file": "safari-base-click3.json",
+    "origin": 1794872539976,
+    "startOrigin": "1794872513836",
+    "path": "/chat/main/proof-1",
+    "clicks": [
+      {
+        "type": "click",
+        "phase": "capture",
+        "time": 1794872539738,
+        "button": 0,
+        "ctrlKey": true,
+        "metaKey": false,
+        "defaultPrevented": false,
+        "href": "/chat/main/proof-1"
+      }
+    ],
+    "contextmenuCount": 1,
+    "beforeunloadCount": 1
+  },
+  {
+    "file": "safari-fix-clicks.json",
+    "origin": 1794872282727,
+    "startOrigin": "1794872282727",
+    "path": "/chat/main/proof-1",
+    "clicks": [
+      {
+        "type": "click",
+        "phase": "capture",
+        "time": 1794872572961,
+        "button": 0,
+        "ctrlKey": true,
+        "metaKey": false,
+        "defaultPrevented": false,
+        "href": "/chat/main/proof-3"
+      },
+      {
+        "type": "click",
+        "phase": "capture",
+        "time": 1794872579724,
+        "button": 0,
+        "ctrlKey": true,
+        "metaKey": false,
+        "defaultPrevented": false,
+        "href": "/chat/main/proof-1"
+      },
+      {
+        "type": "click",
+        "phase": "capture",
+        "time": 1794872592844,
+        "button": 0,
+        "ctrlKey": true,
+        "metaKey": false,
+        "defaultPrevented": false,
+        "href": "/chat/main/proof-2"
+      }
+    ],
+    "contextmenuCount": 3,
+    "beforeunloadCount": 0
+  }
+]
